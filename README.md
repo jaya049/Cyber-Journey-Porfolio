@@ -23,9 +23,9 @@ I am building hands-on cybersecurity projects to acquire and showcase my skills.
 
 ## Projects
 
-| Project | Link | Status | Skills |
-|---------|--------|--------|--------|
-| ✅ Cybersecurity Home Lab | https://github.com/jaya049/cybersecurity_home_lab.git | Completed | VirtualBox, Kali Linux, Windows, Networking |
+| Project | Status | Skills |
+|---------|--------|--------|
+|  [Cybersecurity Home Lab]https://github.com/jaya049/cybersecurity_home_lab.git | Completed✅ | VirtualBox, Kali Linux, Windows, Networking |
 
 
 
