@@ -1,9 +1,6 @@
-# Cyber-Journey-Porfolio
-Cybersecurity Hands-on Projects
-
 # Cyber Journey Portfolio
 
-Welcome to my cybersecurity portfolio.
+Cybersecurity Hands-on Projects
 
 I am building hands-on cybersecurity projects to acquire and showcase my skills. This repository serves as an index to my learning journey and practical labs.
 
